@@ -1,0 +1,3 @@
+[submodule "spotify-tui"]
+	path = spotify-tui
+	url = https://aur.archlinux.org/spotify-tui.git
